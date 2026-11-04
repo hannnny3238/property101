@@ -1,0 +1,9 @@
+/* 지도 컨테이너 및 커스텀 스타일 */
+body {
+    font-family: 'Apple SD Gothic Neo', 'Malgun Gothic', sans-serif;
+}
+
+#map {
+    width: 100%;
+    height: 100%;
+}
